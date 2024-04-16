@@ -1,0 +1,10 @@
+.nav{
+    height: 10vh;
+    background-color: beige;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.nav a {
+    text-decoration: none;
+}
